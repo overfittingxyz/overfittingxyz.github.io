@@ -94,7 +94,11 @@ header a.active {
 }
 
 header,section {
-	padding:1rem;
+	padding: 1rem;
+}
+
+main section {
+	padding-top: 4rem;
 }
 
 blockquote {
@@ -115,6 +119,7 @@ section h1:first-child {
 
 h1.title {
 	margin-top: 0;
+	font-size: 1.5rem;
 } 
 
 strong, b {
