@@ -1,10 +1,10 @@
-site: Sidey
+site: Overfitting
 url: #yoururl
-title: Sidey
-description: Simple and minimalistic jekyll blogging theme.
+title: Overfitting
+description: Loss of Generalization
 twitter:
   username: #yourusername
-  card: summary
+  card: #summary
   creator: #yourusername
 author:
   twitter: #yourusername
