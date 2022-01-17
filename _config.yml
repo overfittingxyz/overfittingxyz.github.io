@@ -1,17 +1,7 @@
 site: Overfitting
 url: #yoururl
 title: Overfitting
-description: Loss of Generalization
-twitter:
-  username: #yourusername
-  card: #summary
-  creator: #yourusername
-author:
-  twitter: #yourusername
-  name: #yourusername
-  avatar:
-  email: #youremail
-  url: #yoururl
+description: Loss of Generalization 
 permalink: pretty
 
 baseurl: ""
@@ -31,7 +21,6 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-seo-tag
   - jekyll-sitemap  
 
 collections:
