@@ -4,8 +4,6 @@ title: Overfitting
 description: Loss of Generalization 
 permalink: pretty
 
-baseurl: https://overfitting.xyz
-
 highlighter: none
 
 exclude:
@@ -16,7 +14,6 @@ compress_html:
   comments: ["<!-- ", " -->"]
 
 sass:
-  sass_dir: _sass
   style: :compressed
 
 plugins:
