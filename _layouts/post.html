@@ -3,13 +3,9 @@ layout: default
 ---
 
 <section class="post">
-  <h2>{{ page.title }}</h2>
-  <span class="meta">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
-  </span>
-
-  {{ content }}
-
+    <h2>{{ page.title }}</h2>
+    <span class="meta">
+      <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y-%m-%d" }}</time>
+    </span>
+    {{ content }}
 </section>
-
-
