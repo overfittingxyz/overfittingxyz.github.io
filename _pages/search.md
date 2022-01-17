@@ -43,6 +43,6 @@ SimpleJekyllSearch({
   noResultsText: 'No results found',
   limit: 10,
   fuzzy: false,
-  exclude: ['Welcome']
+  exclude: []
 })
 </script>
