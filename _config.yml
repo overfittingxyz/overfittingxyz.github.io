@@ -1,5 +1,5 @@
 site: Overfitting
-url: #yoururl
+url: https://overfitting.xyz
 title: Overfitting
 description: Loss of Generalization 
 permalink: pretty
@@ -16,12 +16,12 @@ compress_html:
   comments: ["<!-- ", " -->"]
 
 sass:
-  sass_dir:          _sass
-  style:            :compressed
+  sass_dir: _sass
+  style: :compressed
 
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap  
+  - jekyll-sitemap
 
 collections:
   pages:
