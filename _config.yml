@@ -4,6 +4,8 @@ title: Overfitting
 description: Loss of Generalization 
 permalink: pretty
 
+timezone: Asia/Shanghai
+
 highlighter: none
 
 exclude:
